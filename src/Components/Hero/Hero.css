@@ -27,3 +27,17 @@
     color: rgb(247, 247, 247);
     background: rgb(254, 134, 1);
 }
+@media(max-width: 291px){
+    .main-page-wrapper{
+        width: 250px;
+        height: 100vh;
+        border: none;
+        
+    }
+    .main-page-wrapper img{
+        width: 200px;
+    }
+    /* .btn:hover{
+        background: rgb(247, 247, 247);
+    } */
+}
