@@ -10,8 +10,8 @@ const App = () => {
   return (
     <div>
       <Hero/>
-      {/* <Encry/>
-      <Decry/> */}
+      <Encry/>
+      <Decry/>
       
     </div>
   )

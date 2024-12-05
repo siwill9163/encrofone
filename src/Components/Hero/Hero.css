@@ -2,6 +2,10 @@ section{
     height: 100vh;
     align-content: center;
 }
+h1{
+    color: rgb(254, 134, 1);
+    padding-bottom: 20px;
+}
 .main-page-wrapper{
     display: flex;
     flex-direction: column;
@@ -31,6 +35,7 @@ section{
     color: rgb(247, 247, 247);
     background: rgb(254, 134, 1);
 }
+
 @media(max-width: 291px){
     .main-page-wrapper{
         width: 250px;
