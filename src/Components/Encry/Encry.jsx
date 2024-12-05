@@ -9,7 +9,7 @@ const Encry = () => {
             <img src={logo} alt="logo" />
             <h1>Enter text to be encrypted</h1>
             <textarea name="" id=""></textarea>
-            <button className='btn btn-encry'>encrypt now</button>
+            <button className='btn btn-encry-home'>encrypt now</button>
             
             <p className='output'></p>
             <button className='copy'>copy</button>
